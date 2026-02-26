@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Caddy web server logo — teal C shape -->
+  <circle cx="50" cy="50" r="46" fill="#1eb854"/>
+  <!-- Bold C cutout -->
+  <path d="
+    M 68 30
+    A 28 28 0 1 0 68 70
+    L 58 70
+    A 18 18 0 1 1 58 30
+    Z
+  " fill="white"/>
+  <!-- Inner highlight dot -->
+  <circle cx="50" cy="50" r="5" fill="#1eb854"/>
+</svg>

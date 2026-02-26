@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 48">
+  <rect width="120" height="48" rx="10" fill="#db2777"/>
+  <text x="60" y="31" textAnchor="middle" fontSize="15" fontWeight="800" fill="white" fontFamily="'Inter','Segoe UI',Arial,sans-serif">AI Agent</text>
+</svg>

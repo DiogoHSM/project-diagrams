@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Apify brand: dark navy + bright yellow/lime accent -->
+  <rect width="120" height="120" rx="18" fill="#1A1A2E"/>
+  <!-- Stylized A made of data/scraping arrows -->
+  <polygon points="60,16 90,88 74,88 60,54 46,88 30,88" fill="none" stroke="#FFD600" stroke-width="7" stroke-linejoin="round"/>
+  <line x1="40" y1="72" x2="80" y2="72" stroke="#FFD600" stroke-width="7" stroke-linecap="round"/>
+  <!-- Small data dots -->
+  <circle cx="60" cy="100" r="4" fill="#FFD600" opacity="0.6"/>
+  <circle cx="48" cy="100" r="4" fill="#FFD600" opacity="0.4"/>
+  <circle cx="72" cy="100" r="4" fill="#FFD600" opacity="0.4"/>
+</svg>

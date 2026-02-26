@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Body -->
+  <ellipse cx="50" cy="60" rx="26" ry="28" fill="#e67e22"/>
+  <!-- Belly -->
+  <ellipse cx="50" cy="64" rx="16" ry="18" fill="#f5cba7"/>
+  <!-- Head -->
+  <ellipse cx="50" cy="34" rx="18" ry="17" fill="#e67e22"/>
+  <!-- Ears -->
+  <ellipse cx="36" cy="22" rx="7" ry="9" fill="#e67e22"/>
+  <ellipse cx="64" cy="22" rx="7" ry="9" fill="#e67e22"/>
+  <ellipse cx="36" cy="22" rx="4" ry="6" fill="#f8d7b8"/>
+  <ellipse cx="64" cy="22" rx="4" ry="6" fill="#f8d7b8"/>
+  <!-- Eyes -->
+  <circle cx="43" cy="32" r="3.5" fill="#fff"/>
+  <circle cx="57" cy="32" r="3.5" fill="#fff"/>
+  <circle cx="43" cy="32" r="2" fill="#1a1a1a"/>
+  <circle cx="57" cy="32" r="2" fill="#1a1a1a"/>
+  <!-- Nose -->
+  <ellipse cx="50" cy="39" rx="5" ry="3" fill="#c0392b"/>
+  <!-- Mouth -->
+  <path d="M45,43 Q50,47 55,43" stroke="#1a1a1a" strokeWidth="1.5" fill="none"/>
+  <!-- Arms -->
+  <ellipse cx="26" cy="58" rx="8" ry="12" fill="#e67e22" transform="rotate(-15,26,58)"/>
+  <ellipse cx="74" cy="58" rx="8" ry="12" fill="#e67e22" transform="rotate(15,74,58)"/>
+  <!-- Legs -->
+  <ellipse cx="40" cy="86" rx="8" ry="6" fill="#e67e22" transform="rotate(10,40,86)"/>
+  <ellipse cx="60" cy="86" rx="8" ry="6" fill="#e67e22" transform="rotate(-10,60,86)"/>
+  <!-- Tail -->
+  <path d="M74,70 Q90,60 88,45" stroke="#e67e22" strokeWidth="6" fill="none" strokeLinecap="round"/>
+  <!-- ZooKeeper Z text -->
+  <text x="50" y="68" textAnchor="middle" fontSize="14" fontWeight="900" fill="#2c3e50" fontFamily="Arial,sans-serif">ZK</text>
+</svg>
